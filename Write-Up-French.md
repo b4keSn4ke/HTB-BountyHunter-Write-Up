@@ -1,4 +1,4 @@
-# Write-up de BountyHunter
+# Write-up de BountyHunter (Version Française)
 
 Ceci est mon article sur **BountyHunter** qui est une machine Linux active sur **Hack The Box** ayant l'adresse IP `10.10.11.100`.<br>
 J'ai vraiment eu du plaisir à compléter cette machine et comme vous le verrez plus loin, elle couvre l'une des top 10 vulnérabilités d'**OWASP**.<br><br>
